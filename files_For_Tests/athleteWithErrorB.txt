@@ -1,0 +1,13 @@
+#Fichiersdesathletes
+#Nom:Prenom:dateNaissance:essai1:essai2:essai3
+Galle:Martin:12-2-1991:94:87:93
+Honnete:Marie:14-9-1982:82:91:93
+Pleur:Jean:13-3-1976:93:79:72
+Prane:Dolly:19-11-1999:41:57:59
+Mieu:Jeff-Edmond:22-12-2004:89:95:91
+Reynaud:Georges:25-03-1925:12:10:25
+Prane:Dolly:19-11-1999:41:57:59
+Honnete:Marie:14-9-1982:82:91:93
+Mieu:Jeff-Edmond:22-12-2004:89:95:91
+Mieu:Jeff-Edmond:22-12-2004:89:truc
+
